@@ -1,0 +1,8 @@
+export DRAIN_QUEUE=0
+export QUEUE_NAME=changeMe
+export HOST='localhost'
+export PORT=5672
+export VHOST='changeMe'
+export RABBIT_USER='changeMe'
+export RABBIT_PWD='changeMe'
+export BATCH_SIZE='100'
